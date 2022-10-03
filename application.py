@@ -4,4 +4,4 @@ application = Flask(__name__)
 
 @application.route('/')    # default web page
 def hello_world():
-	return 'Welcome to Kevin & Kim factory'
+	return 'October 2,2022 - Welcome to Kevin & Kim factory'
